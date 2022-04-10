@@ -1,1 +1,1 @@
-# ProductReviewScrapper: Products Review scrapped for Sentiment Analysis
+# ProductReviewScrapper: Flipkart Products Review scrapped for Sentiment Analysis
